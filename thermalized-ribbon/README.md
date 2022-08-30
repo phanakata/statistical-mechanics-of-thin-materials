@@ -16,6 +16,7 @@ git clone https://github.com/phanakata/statistical-mechanics-of-thin-materials/t
 
 ## Authors
 Paul Hanakata
+Some of the analysis codes are adapted from https://github.com/souravbhabesh
 
 ## Citation
 
