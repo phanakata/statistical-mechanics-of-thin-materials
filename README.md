@@ -1,4 +1,4 @@
-# Statistical Mechanics
+# Statistical Mechanics of Thin Materials
 
 This package is still under developement. More features will be added soon.
 
