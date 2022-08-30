@@ -13,7 +13,7 @@ This project's directory structure is as follows:
 * ```thermalized-ribbon/```: a software packge contains HOOMD scripts and analysis codes to study statistical mechanics of thermalized ribbon
 
 ## To download 
-git clone https://github.com/phanakata/statistical-mechanics-sheets
+git clone https://github.com/phanakata/statistical-mechanics-thin-materials
 
 ## Authors
 Paul Hanakata
