@@ -21,26 +21,21 @@ Paul Hanakata
 
 If you use this package/code/dataset, build on  or find our research is useful for your work please cite 
 ```
-@article{PhysRevLett.128.075902,
-  title = {Anomalous Thermal Expansion in Ising-like Puckered Sheets},
-  author = {Hanakata, Paul Z. and Plummer, Abigail and Nelson, David R.},
-  journal = {Phys. Rev. Lett.},
-  volume = {128},
-  issue = {7},
-  pages = {075902},
-  numpages = {7},
-  year = {2022},
-  month = {Feb},
-  publisher = {American Physical Society},
-  doi = {10.1103/PhysRevLett.128.075902},
-  url = {https://link.aps.org/doi/10.1103/PhysRevLett.128.075902}
+@article{hanakata2021thermal,
+  title={Thermal buckling and symmetry breaking in thin ribbons under compression},
+  author={Hanakata, Paul Z and Bhabesh, Sourav S and Bowick, Mark J and Nelson, David R and Yllanes, David},
+  journal={Extreme Mechanics Letters},
+  volume={44},
+  pages={101270},
+  year={2021},
+  publisher={Elsevier}
 }
 ```
 
 
 ## References
-* <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.255304" style="color:#268cd7
-"> **Paul Z. Hanakata**, Abigail P. Plummer, David R. Nelson , *Anomalous thermal expansion in Ising-like puckered sheets*, Phys. Rev. Lett, 128, 075902  (2022).</a>
+* <a href="https://www.sciencedirect.com/science/article/pii/S2352431621000602?casa_token=reJKwD1SuVkAAAAA:pr92erUDodYfs9T-B0acZRQbZidhoVUp7qdzhssqd5HXizYCM_WbOXzCUwC7NsEXCAGD9eo7g_Y" style="color:#268cd7
+"> **Paul Z. Hanakata**,  S. S.  Bhabesh, M. J. Bowick, D. R. Nelson, D. Yllanes, "*Thermal buckling and symmetry breaking in thin ribbons under compression*", Extreme Mechanics Letters, 44, 101270 (2021).</a>
 
 ## Acknowledgments
 * Some of the analysis codes are adapted from https://github.com/souravbhabesh
