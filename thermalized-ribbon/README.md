@@ -6,7 +6,7 @@ This project's directory structure is as follows:
 
 
 ## To download 
-git clone https://github.com/phanakata/statistical-mechanics-of-thin-materials/thermalized-ribbon
+git clone https://github.com/phanakata/statistical-mechanics-of-thin-materials/
 
 ## Technical 
 * Molecular Dynamics Simulations 
