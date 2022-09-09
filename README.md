@@ -4,9 +4,8 @@ This package is still under developement. More features will be added soon.
 
 ## Paper 
 See our published papers: 
-1. <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.255304" style="color:#268cd7
-"> **Paul Z. Hanakata**, Abigail Plummer, David R. Nelson , *Anomalous thermal expansion in Ising-like puckered sheets*, Phys. Rev. Lett, 128, 075902  (2022).</a>
-
+1. <a href="https://www.sciencedirect.com/science/article/pii/S2352431621000602?casa_token=reJKwD1SuVkAAAAA:pr92erUDodYfs9T-B0acZRQbZidhoVUp7qdzhssqd5HXizYCM_WbOXzCUwC7NsEXCAGD9eo7g_Y" style="color:#268cd7
+"> **Paul Z. Hanakata**,  S. S.  Bhabesh, M. J. Bowick, D. R. Nelson, D. Yllanes, "*Thermal buckling and symmetry breaking in thin ribbons under compression*", Extreme Mechanics Letters, 44, 101270 (2021).</a>
 
 ## Overview 
 This project's directory structure is as follows:
@@ -40,9 +39,8 @@ If you use this package/code/dataset, build on  or find our research is useful f
 
 
 ## References
-* <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.255304" style="color:#268cd7
-"> **Paul Z. Hanakata**, Abigail P. Plummer, David R. Nelson , *Anomalous thermal expansion in Ising-like puckered sheets*, Phys. Rev. Lett, 128, 075902  (2022).</a>
-* <a href="https://arxiv.org/abs/2208.01085" style="color:#268cd7
-"> Abigail Plummer*, **Paul Z. Hanakata***, David R. Nelson , *Curvature as an external field in mechanical antiferromagnets*, arXiv:2208.01085  (2022).</a>
+* <a href="https://www.sciencedirect.com/science/article/pii/S2352431621000602?casa_token=reJKwD1SuVkAAAAA:pr92erUDodYfs9T-B0acZRQbZidhoVUp7qdzhssqd5HXizYCM_WbOXzCUwC7NsEXCAGD9eo7g_Y" style="color:#268cd7
+"> **Paul Z. Hanakata**,  S. S.  Bhabesh, M. J. Bowick, D. R. Nelson, D. Yllanes, "*Thermal buckling and symmetry breaking in thin ribbons under compression*", Extreme Mechanics Letters, 44, 101270 (2021).</a>
+
 
 
