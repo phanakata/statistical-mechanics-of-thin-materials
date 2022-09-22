@@ -14,8 +14,8 @@ This project's directory structure is as follows:
 ## To download 
 git clone https://github.com/phanakata/statistical-mechanics-thin-materials
 
-## Authors
-Paul Hanakata
+## Code developers 
+Paul Hanakata, Sourav Bhabesh, David Yllanes 
 
 ## Citation
 
