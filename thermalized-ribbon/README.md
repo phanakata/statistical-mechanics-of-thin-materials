@@ -39,4 +39,5 @@ If you use this package/code/dataset, build on  or find our research is useful f
 
 ## Acknowledgments
 * Some of the analysis codes are adapted from https://github.com/souravbhabesh
+* Research was supported by NSF grants
 
